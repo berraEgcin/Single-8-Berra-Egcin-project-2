@@ -1,0 +1,390 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Majestic Mountain Graphic T-Shirt",
+      "slug": "majestic-mountain-graphic-t-shirt",
+      "price": 14,
+      "description": "Elevate your wardrobe with this stylish black t-shirt featuring a striking monochrome mountain range graphic. Perfect for those who love the outdoors or want to add a touch of nature-inspired design to their look, this tee is crafted from soft, breathable fabric ensuring all-day comfort. Ideal for casual outings or as a unique gift, this t-shirt is a versatile addition to any collection.",
+      "category": "Clothes",
+      "imageurl": "https://i.imgur.com/QkIa5tT.jpeg",
+      "isCampaign": true,
+      "newPrice": 9,
+      "reviews": [
+        {
+          "username": "John",
+          "stars": 5,
+          "title": "Amazing Quality!",
+          "comment": "The fabric is soft and the design is stunning!"
+        },
+        {
+          "username": "Sarah",
+          "stars": 4,
+          "title": "Great Fit",
+          "comment": "Fits well, but I wish it was a bit softer."
+        },
+        {
+          "username": "Mike",
+          "stars": 3,
+          "title": "Decent",
+          "comment": "It's okay, but not what I expected."
+        },
+        {
+          "username": "Lisa",
+          "stars": 5,
+          "title": "Perfect Gift",
+          "comment": "I bought this for my brother, and he loves it!"
+        },
+        {
+          "username": "Berra",
+          "title": "Good texture",
+          "comment": "Good price.",
+          "stars": 5
+        },
+        {
+          "username": "Costumer",
+          "title": "Not bad.",
+          "comment": "I like it.",
+          "stars": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Classic Red Pullover Hoodie",
+      "slug": "classic-red-pullover-hoodie",
+      "price": 99,
+      "description": "Elevate your casual wardrobe with our Classic Red Pullover Hoodie. Crafted with a soft cotton blend for ultimate comfort, this vibrant red hoodie features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs for a snug fit. The timeless design ensures easy pairing with jeans or joggers for a relaxed yet stylish look, making it a versatile addition to your everyday attire.",
+      "category": "Clothes",
+      "imageurl": "https://i.imgur.com/1twoaDy.jpeg",
+      "isCampaign": false,
+      "newPrice": null,
+      "reviews": [
+        {
+          "username": "Emily",
+          "stars": 5,
+          "title": "Love It!",
+          "comment": "This hoodie is so comfortable and warm."
+        },
+        {
+          "username": "David",
+          "stars": 2,
+          "title": "Not Great",
+          "comment": "The color faded after the first wash."
+        },
+        {
+          "username": "Anna",
+          "stars": 4,
+          "title": "Good Quality",
+          "comment": "Very nice hoodie, but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Classic Heather Gray Hoodie",
+      "slug": "classic-heather-gray-hoodie",
+      "price": 46,
+      "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
+      "category": "Clothes",
+      "imageurl": "https://i.imgur.com/cHddUCu.jpeg",
+      "isCampaign": false,
+      "newPrice": null,
+      "reviews": [
+        {
+          "username": "Tom",
+          "stars": 4,
+          "title": "Very Comfortable",
+          "comment": "Great for casual wear, love the fit!"
+        },
+        {
+          "username": "Jessica",
+          "stars": 5,
+          "title": "Perfect for Winter",
+          "comment": "Keeps me warm and looks great!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Classic Grey Hooded Sweatshirt",
+      "slug": "classic-grey-hooded-sweatshirt",
+      "price": 79,
+      "description": "Elevate your casual wear with our Classic Grey Hooded Sweatshirt. Made from a soft cotton blend, this hoodie features a front kangaroo pocket, an adjustable drawstring hood, and ribbed cuffs for a snug fit. Perfect for those chilly evenings or lazy weekends, it pairs effortlessly with your favorite jeans or joggers.",
+      "category": "Clothes",
+      "imageurl": "https://i.imgur.com/R2PN9Wq.jpeg",
+      "isCampaign": false,
+      "newPrice": null,
+      "reviews": [
+        {
+          "username": "Chris",
+          "stars": 3,
+          "title": "Average Quality",
+          "comment": "It's okay, but I've seen better."
+        },
+        {
+          "username": "Nina",
+          "stars": 4,
+          "title": "Good for the Price",
+          "comment": "Decent quality for the price."
+        },
+        {
+          "username": "Costumer",
+          "title": "Return",
+          "comment": "Not good.",
+          "stars": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Sleek Wireless Headphone & Inked Earbud Set",
+      "slug": "sleek-wireless-headphone-inked-earbud-set",
+      "price": 167,
+      "description": "Experience the fusion of style and sound with this sophisticated audio set featuring a pair of sleek, white wireless headphones offering crystal-clear sound quality and over-ear comfort. The set also includes a set of durable earbuds, perfect for an on-the-go lifestyle. Elevate your music enjoyment with this versatile duo, designed to cater to all your listening needs.",
+      "category": "Electronics",
+      "imageurl": "https://i.imgur.com/yVeIeDa.jpeg",
+      "isCampaign": true,
+      "newPrice": 166,
+      "reviews": [
+        {
+          "username": "Alice",
+          "stars": 5,
+          "title": "Best Headphones!",
+          "comment": "Amazing sound quality and very comfortable."
+        },
+        {
+          "username": "Bob",
+          "stars": 4,
+          "title": "Great Value",
+          "comment": "Good sound for the price, highly recommend!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Sleek Comfort-Fit Over-Ear Headphones",
+      "slug": "sleek-comfort-fit-over-ear-headphones",
+      "price": 106,
+      "description": "Experience superior sound quality with our Sleek Comfort-Fit Over-Ear Headphones, designed for prolonged use with cushioned ear cups and an adjustable, padded headband. Ideal for immersive listening, whether you're at home, in the office, or on the move. Their durable construction and timeless design provide both aesthetically pleasing looks and long-lasting performance.",
+      "category": "Electronics",
+      "imageurl": "https://i.imgur.com/SolkFEB.jpeg",
+      "isCampaign": true,
+      "newPrice": 99,
+      "reviews": [
+        {
+          "username": "Mark",
+          "stars": 5,
+          "title": "Excellent Sound",
+          "comment": "These headphones are fantastic for music lovers."
+        },
+        {
+          "username": "Sophie",
+          "stars": 3,
+          "title": "Decent but Heavy",
+          "comment": "Good sound, but they feel a bit heavy after a while."
+        },
+        {
+          "username": "Costumer",
+          "title": "Not Working",
+          "comment": "Doesn't work.",
+          "stars": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Efficient 2-Slice Toaster",
+      "slug": "efficient-2-slice-toaster",
+      "price": 84,
+      "description": "Enhance your morning routine with our sleek 2-slice toaster, featuring adjustable browning controls and a removable crumb tray for easy cleaning. This compact and stylish appliance is perfect for any kitchen, ensuring your toast is always golden brown and delicious.",
+      "category": "Electronics",
+      "imageurl": "https://i.imgur.com/keVCVIa.jpeg",
+      "isCampaign": false,
+      "newPrice": null,
+      "reviews": [
+        {
+          "username": "Laura",
+          "stars": 4,
+          "title": "Works Well",
+          "comment": "Toasts evenly and is easy to clean."
+        },
+        {
+          "username": "Steve",
+          "stars": 5,
+          "title": "Perfect Toast",
+          "comment": "Makes the best toast I've ever had!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Sleek Wireless Computer Mouse",
+      "slug": "sleek-wireless-computer-mouse",
+      "price": 35,
+      "description": "Experience smooth and precise navigation with this modern wireless mouse, featuring a glossy finish and a comfortable ergonomic design. Its responsive tracking and easy-to-use interface make it the perfect accessory for any desktop or laptop setup. The stylish blue hue adds a splash of color to your workspace, while its compact size ensures it fits neatly in your bag for on-the-go productivity.",
+      "category": "Electronics",
+      "imageurl": "https://i.imgur.com/w3Y8NwQ.jpeg",
+      "isCampaign": false,
+      "newPrice": null,
+      "reviews": [
+        {
+          "username": "Kevin",
+          "stars": 5,
+          "title": "Great Mouse!",
+          "comment": "Very responsive and comfortable to use."
+        },
+        {
+          "username": "Rachel",
+          "stars": 4,
+          "title": "Good for the Price",
+          "comment": "Works well for everyday tasks."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Sleek Modern Leather Sofa",
+      "slug": "sleek-modern-leather-sofa",
+      "price": 259,
+      "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+      "category": "Furniture",
+      "imageurl": "https://i.imgur.com/Qphac99.jpeg",
+      "isCampaign": true,
+      "newPrice": 199,
+      "reviews": [
+        {
+          "username": "Olivia",
+          "stars": 5,
+          "title": "Beautiful Sofa",
+          "comment": "Looks amazing in my living room!"
+        },
+        {
+          "username": "James",
+          "stars": 4,
+          "title": "Very Comfortable",
+          "comment": "Great for lounging, but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Mid-Century Modern Wooden Dining Table",
+      "slug": "mid-century-modern-wooden-dining-table",
+      "price": 249,
+      "description": "Elevate your dining room with this sleek Mid-Century Modern dining table, featuring an elegant walnut finish and tapered legs for a timeless aesthetic. Its sturdy wood construction and minimalist design make it a versatile piece that fits with a variety of decor styles. Perfect for intimate dinners or as a stylish spot for your morning coffee.",
+      "category": "Furniture",
+      "imageurl": "https://i.imgur.com/DMQHGA0.jpeg",
+      "isCampaign": true,
+      "newPrice": 200,
+      "reviews": [
+        {
+          "username": "Sophia",
+          "stars": 5,
+          "title": "Stunning Table",
+          "comment": "Perfect for family dinners!"
+        },
+        {
+          "username": "Liam",
+          "stars": 3,
+          "title": "Good but Heavy",
+          "comment": "Nice design, but it's quite heavy to move."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Elegant Golden-Base Stone Top Dining Table",
+      "slug": "elegant-golden-base-stone-top-dining-table",
+      "price": 299,
+      "description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
+      "category": "Furniture",
+      "imageurl": "https://i.imgur.com/NWIJKUj.jpeg",
+      "isCampaign": false,
+      "newPrice": null,
+      "reviews": [
+        {
+          "username": "Emma",
+          "stars": 5,
+          "title": "Gorgeous Table",
+          "comment": "Absolutely love this table, it's a centerpiece!"
+        },
+        {
+          "username": "Noah",
+          "stars": 4,
+          "title": "Very Elegant",
+          "comment": "Looks great, but the surface scratches easily."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Modern Elegance Teal Armchair",
+      "slug": "modern-elegance-teal-armchair",
+      "price": 175,
+      "description": "Elevate your living space with this beautifully crafted armchair, featuring a sleek wooden frame that complements its vibrant teal upholstery. Ideal for adding a pop of color and contemporary style to any room, this chair provides both superb comfort and sophisticated design. Perfect for reading, relaxing, or creating a cozy conversation nook.",
+      "category": "Furniture",
+      "imageurl": "https://i.imgur.com/6wkyyIN.jpeg",
+      "isCampaign": false,
+      "newPrice": null,
+      "reviews": [
+        {
+          "username": "Mia",
+          "stars": 5,
+          "title": "Comfortable and Stylish",
+          "comment": "Perfect for my reading nook!"
+        },
+        {
+          "username": "Ethan",
+          "stars": 4,
+          "title": "Great Addition",
+          "comment": "Very comfortable, but the color is a bit brighter than expected."
+        }
+      ]
+    }
+  ],
+  "campaignItems": [
+    {
+      "productId": 1,
+      "newPrice": 9,
+      "id": 1
+    },
+    {
+      "productId": 6,
+      "newPrice": 99,
+      "id": 2
+    },
+    {
+      "productId": 9,
+      "newPrice": 199,
+      "id": 3
+    },
+    {
+      "productId": 10,
+      "newPrice": 200,
+      "id": 4
+    },
+    {
+      "productId": 5,
+      "newPrice": 166,
+      "id": 5
+    },
+    {
+      "productId": 6,
+      "newPrice": 99,
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "productId": 5,
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "productId": 6,
+      "quantity": 3,
+      "id": 2
+    }
+  ]
+}
